@@ -67,7 +67,7 @@ paddlepaddle or paddlepaddle-gpu See https://www.paddlepaddle.org.cn/install/qui
 
 ## Installation
 
-`pip install git+https://github.com/oliverfei/videocr-PaddleOCR.git`
+`pip install git+https://github.com/xmarco/videocr_with_paddle.git`
 
 Alternatively for development:
 1. Clone this repo
